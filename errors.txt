@@ -1,0 +1,2 @@
+wav sound format to ogg
+ogg length parameter in catchsound()
